@@ -69,7 +69,8 @@ C10-team-Napak/
 ├── docs/
 │   ├── data_card.pdf
 │   ├── impact-statement.pdf
-│   └── problem_statement.pdf
+│   ├── problem_statement.pdf
+│   └── stakeholder_engagement.pdf
 ├── scripts/
 │   └── test.ipynb
 ├── .gitignore
